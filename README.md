@@ -33,3 +33,10 @@ Analyze online retail transaction data to identify sales trends, top products, a
 ### Top 10 Countries by Revenue
 ![Revenue by Country](charts/revenue_by_country.png)
 
+## Key Findings
+
+- Revenue shows clear monthly trends, indicating seasonal patterns.
+- A small number of products generate a significant portion of total revenue.
+- The United Kingdom is the largest contributor to overall revenue.
+
+
