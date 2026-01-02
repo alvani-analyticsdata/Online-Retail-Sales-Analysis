@@ -16,3 +16,9 @@ Analyze online retail transaction data to identify sales trends, top products, a
 - How does revenue change over time?
 - Which products generate the most revenue?
 - Which countries contribute the most revenue?
+
+## Key Insights
+- Revenue shows clear monthly trends with peak periods.
+- A small number of products generate a large share of total revenue.
+- The UK contributes the highest revenue among all countries.
+
